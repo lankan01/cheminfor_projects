@@ -4,6 +4,13 @@
 
 This repository hosts a linear regression model for predicting aqueous solubility (LogS) using molecular descriptors. It follows the methodologies by Delaney and Pat Walters, aiming to refine the prediction of solubility from chemical structures.
 
+## Background
+
+Aqueous solubility is a key factor in drug discovery.  If a compound is not soluble, it will usually have poor bioavailable, making it difficult to use in in-vivo studies, and ultimately to deliver to patients.  Solubility can even be a problem in early discovery, as poorly soluble compounds can create problems for biochemical and cellular assays.
+
+Given my background in life sciences, predicting solubility seemed like a reasonable first cheminformatics project.
+
+
 ## Features
 
 - Implements linear regression with descriptors: LogP, Molecular Weight, Rotating Bonds, Aromatic Proportion.
@@ -53,7 +60,7 @@ Explain how to use your notebook, including any important steps or configuration
 
 
 ## References
-- John S. Delaney. ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure. J. Chem. Inf. Comput. Sci. 2004, 44, 3, 1000-1005.
+- John S. Delaney. ESOL:  [Estimating Aqueous Solubility Directly from Molecular Structure](https://pubs.acs.org/doi/10.1021/ci034243x). J. Chem. Inf. Comput. Sci. 2004, 44, 3, 1000-1005.
 
 - Pat Walters. Predicting Aqueous Solubility - It's Harder Than It Looks. Practical Cheminformatics Blog
 
