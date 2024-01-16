@@ -59,7 +59,7 @@ Explain how to use your notebook, including any important steps or configuration
 
 - Bharath Ramsundar, Peter Eastman, Patrick Walters, and Vijay Pande. Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More, O'Reilly, 2019.
 
-- Chanin Nantasenamat - [The Data Professor](https://www.youtube.com/dataprofessor), Cheminformatics in Python
+- Chanin Nantasenamat - The Data Professor, Cheminformatics in Python
   
 - Supplementary file from Delaney's ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure.
 
